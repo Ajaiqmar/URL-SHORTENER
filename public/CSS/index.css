@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+  background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+  color: #ffffff;
+  font-family: "Fresca", sans-serif;
+}
+
+.header {
+  padding: 2rem 3rem;
+  font-size: 4rem;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.footer {
+  position: absolute;
+  bottom: 0rem;
+  left: 0rem;
+  right: 0rem;
+  padding: 1.5rem 0rem;
+  font-size: 1.5rem;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.buttonGroup {
+  text-align: center;
+  display: block;
+  margin: 0rem auto;
+}
