@@ -1,7 +1,8 @@
 <img src="static/Images/banner.png" />
 
 <h2> ✂ URL SHORTENER </h2>
-<a href="https://urlshortener.ajaiqmar.site/">URL Shortener</a> is a MERN Application. I used a 5 character extension for my Shortened URL, So we can store upto 91,61,32,832 URLs. Try it out!!
+URL Shortener application was whipped up to strengthen the knowledge in creating MERN Application. URL Shortener is a MERN Application. I have used Mongo Atlas to store the URL's and their respective Hash extensions. I have hosted the MERN application using a Virtual Private Server. You can visit the site using this link : https://urlshortener.ajaiqmar.site/
+
 
 <h2> 📱TECHNOLOGY STACK </h2>
 <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-%20-brightgreen" /></a>
