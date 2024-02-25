@@ -1,4 +1,4 @@
-<img src="IMG/banner.png" />
+<img src="static/Images/banner.png" />
 
 <h2> ✂ URL SHORTENER </h2>
 <a href="https://urlshortener.ajaiqmar.site/">URL Shortener</a> is a MERN Application. I used a 5 character extension for my Shortened URL, So we can store upto 91,61,32,832 URLs. Try it out!!
